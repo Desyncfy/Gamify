@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Cute Mono";
+    src: url(assets/fonts/retro-pixel-cute-mono.ttf);
+}
+
+.font-cute-mono {
+    font-family: "Cute Mono";
+}
